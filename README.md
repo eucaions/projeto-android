@@ -11,7 +11,6 @@ Este projeto é uma página web simples criada para praticar os fundamentos de *
 * Página única (single-page) com layout responsivo
 * Uso de **HTML semântico**
 * Estilização com **CSS moderno** (cores, fontes, alinhamentos, etc.)
-* Interatividade com **JavaScript**
 * Design visualmente agradável com elementos gráficos
 
 ---
