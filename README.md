@@ -29,7 +29,6 @@ Este projeto é uma página web simples criada para praticar os fundamentos de *
 
 * HTML5
 * CSS3
-* JavaScript (básico)
 * GitHub Pages (para hospedagem)
 
 ---
