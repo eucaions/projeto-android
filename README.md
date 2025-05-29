@@ -1,6 +1,6 @@
-# 📱 Projeto Android - Treinando HTML, CSS e JavaScript
+# 📱 Projeto Android - Treinando HTML e CSS
 
-Este projeto é uma página web simples criada para praticar os fundamentos de **HTML**, **CSS** e **JavaScript**. A ideia foi inspirada no sistema operacional Android, trazendo informações sobre seu mascote, versões e curiosidades.
+Este projeto é uma página web simples criada para praticar os fundamentos de **HTML** e **CSS**. A ideia foi inspirada no sistema operacional Android, trazendo informações sobre seu mascote, versões e curiosidades.
 
 🔗 **[Acesse o projeto online aqui](https://eucaions.github.io/projeto-android/)**
 
